@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.App-footer {
+  margin-top: 2em;
+  margin-bottom: 5em;
+  padding-bottom: 3em;
+  padding-top: 1%;
+  background-color:#535353;
+  color: #d3cece;
+  text-align: center;
+}
+
+/* Estilo para el carousel */
+.carousel {
+  width: 70%;
+  margin: 0 auto;
+  padding: 10 auto;
+}
+
+.carousel-item img {
+  width: 70%;
+  height: auto;
+  border-radius: 2%;
+}
+
+h1 {
+  text-align: center;
+  color: chocolate;
+}
+
+body {
+  margin: 2%;
+}
